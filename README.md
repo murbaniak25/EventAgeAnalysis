@@ -7,12 +7,14 @@ Projekt analizuje zależność między medianą wieku a liczbą imprez masowych 
 Dane pochodzą z GUS i obejmują liczbę imprez masowych w 2023 roku oraz medianę wieku dla każdego województwa.
 
 ## Źródła danych
-
-- **IMPREZY.xlsx** – liczba imprez masowych w województwach w 2023 roku.
-- **WIEK.xlsx** – mediana wieku populacji w województwach.
+https://stat.gov.pl
 
 ## Technologie
 
 Projekt wykorzystuje:
 - **Python** (pandas, seaborn, matplotlib, scipy)
 - **Jupyter Notebook**
+
+## Dane
+- **IMPREZY.xlsx** – liczba imprez masowych w województwach w 2023 roku.
+- **WIEK.xlsx** – mediana wieku populacji w województwach.
